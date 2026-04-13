@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanchaturvedy20
 - 👀 I’m interested in Coading
-- 🌱 I’m currently learning Java
+- 🌱 Java & Machine Learning Developer 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me (by college)
 
